@@ -1,0 +1,110 @@
+/home/janylson/.jdks/openjdk-24.0.2/bin/java -javaagent:/snap/intellij-idea-ultimate/682/lib/idea_rt.jar=44779 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /home/janylson/Downloads/JantarDosFilosofos/out/production/JantarDosFilosofos JantarDosFilosofos
+1761578891107 - Filósofo 2 está pensando.
+1761578891106 - Filósofo 0 está pensando.
+1761578891108 - Filósofo 4 está pensando.
+1761578891107 - Filósofo 1 está pensando.
+1761578891107 - Filósofo 3 está pensando.
+1761578891819 - Filósofo 2 tenta pegar garfos.
+1761578891819 - Filósofo 2 tenta pegar o garfo 2.
+1761578891822 - Garfo 2 foi pego pelo Filósofo 2.
+1761578891822 - Filósofo 2 pegou o garfo 2.
+1761578891822 - Filósofo 2 tenta pegar o garfo 3.
+1761578891822 - Garfo 3 foi pego pelo Filósofo 2.
+1761578891822 - Filósofo 2 pegou o garfo 3.
+1761578891822 - Filósofo 2 está comendo.
+1761578892154 - Filósofo 4 tenta pegar garfos.
+1761578892154 - Filósofo 4 tenta pegar o garfo 0.
+1761578892154 - Garfo 0 foi pego pelo Filósofo 4.
+1761578892154 - Filósofo 4 pegou o garfo 0.
+1761578892154 - Filósofo 4 tenta pegar o garfo 4.
+1761578892154 - Garfo 4 foi pego pelo Filósofo 4.
+1761578892154 - Filósofo 4 pegou o garfo 4.
+1761578892154 - Filósofo 4 está comendo.
+1761578892197 - Filósofo 3 tenta pegar garfos.
+1761578892197 - Filósofo 3 tenta pegar o garfo 3.
+1761578892197 - Filósofo 3 está esperando pelo garfo 3.
+1761578892261 - Filósofo 0 tenta pegar garfos.
+1761578892261 - Filósofo 0 tenta pegar o garfo 0.
+1761578892261 - Filósofo 0 está esperando pelo garfo 0.
+1761578892620 - Filósofo 1 tenta pegar garfos.
+1761578892655 - Filósofo 2 devolve os garfos.
+1761578892655 - Garfo 2 foi devolvido pelo Filósofo 2.
+1761578892655 - Filósofo 2 devolveu o garfo 2.
+1761578892655 - Garfo 3 foi devolvido pelo Filósofo 2.
+1761578892655 - Filósofo 2 devolveu o garfo 3.
+1761578892655 - Garfo 3 foi pego pelo Filósofo 3.
+1761578892655 - Filósofo 2 está pensando.
+1761578892655 - Filósofo 3 pegou o garfo 3.
+1761578892655 - Filósofo 1 tenta pegar o garfo 1.
+1761578892655 - Filósofo 3 tenta pegar o garfo 4.
+1761578892655 - Filósofo 3 está esperando pelo garfo 4.
+1761578892655 - Garfo 1 foi pego pelo Filósofo 1.
+1761578892656 - Filósofo 1 pegou o garfo 1.
+1761578892656 - Filósofo 1 tenta pegar o garfo 2.
+1761578892656 - Garfo 2 foi pego pelo Filósofo 1.
+1761578892656 - Filósofo 1 pegou o garfo 2.
+1761578892656 - Filósofo 1 está comendo.
+1761578892987 - Filósofo 4 devolve os garfos.
+1761578892988 - Garfo 4 foi devolvido pelo Filósofo 4.
+1761578892988 - Filósofo 4 devolveu o garfo 4.
+1761578892988 - Garfo 0 foi devolvido pelo Filósofo 4.
+1761578892988 - Filósofo 4 devolveu o garfo 0.
+1761578892988 - Garfo 4 foi pego pelo Filósofo 3.
+1761578892988 - Filósofo 3 pegou o garfo 4.
+1761578892988 - Filósofo 3 está comendo.
+1761578892988 - Garfo 0 foi pego pelo Filósofo 0.
+1761578892989 - Filósofo 0 pegou o garfo 0.
+1761578892989 - Filósofo 0 tenta pegar o garfo 1.
+1761578892989 - Filósofo 0 está esperando pelo garfo 1.
+1761578892988 - Filósofo 4 está pensando.
+1761578893342 - Filósofo 1 devolve os garfos.
+1761578893342 - Garfo 1 foi devolvido pelo Filósofo 1.
+1761578893342 - Filósofo 1 devolveu o garfo 1.
+1761578893342 - Garfo 2 foi devolvido pelo Filósofo 1.
+1761578893342 - Garfo 1 foi pego pelo Filósofo 0.
+1761578893342 - Filósofo 0 pegou o garfo 1.
+1761578893342 - Filósofo 1 devolveu o garfo 2.
+1761578893342 - Filósofo 0 está comendo.
+1761578893342 - Filósofo 1 está pensando.
+1761578893349 - Filósofo 2 tenta pegar garfos.
+1761578893350 - Filósofo 2 tenta pegar o garfo 2.
+1761578893350 - Garfo 2 foi pego pelo Filósofo 2.
+1761578893350 - Filósofo 2 pegou o garfo 2.
+1761578893350 - Filósofo 2 tenta pegar o garfo 3.
+1761578893350 - Filósofo 2 está esperando pelo garfo 3.
+1761578893810 - Filósofo 4 tenta pegar garfos.
+1761578893810 - Filósofo 4 tenta pegar o garfo 0.
+1761578893810 - Filósofo 4 está esperando pelo garfo 0.
+1761578894037 - Filósofo 3 devolve os garfos.
+1761578894038 - Garfo 3 foi devolvido pelo Filósofo 3.
+1761578894038 - Filósofo 3 devolveu o garfo 3.
+1761578894038 - Garfo 4 foi devolvido pelo Filósofo 3.
+1761578894038 - Garfo 3 foi pego pelo Filósofo 2.
+1761578894038 - Filósofo 3 devolveu o garfo 4.
+1761578894038 - Filósofo 2 pegou o garfo 3.
+1761578894038 - Filósofo 3 está pensando.
+1761578894038 - Filósofo 2 está comendo.
+1761578894683 - Filósofo 3 tenta pegar garfos.
+1761578894684 - Filósofo 3 tenta pegar o garfo 3.
+1761578894684 - Filósofo 3 está esperando pelo garfo 3.
+1761578894794 - Filósofo 0 devolve os garfos.
+1761578894794 - Garfo 0 foi devolvido pelo Filósofo 0.
+1761578894794 - Filósofo 0 devolveu o garfo 0.
+1761578894794 - Garfo 1 foi devolvido pelo Filósofo 0.
+1761578894794 - Filósofo 0 devolveu o garfo 1.
+1761578894794 - Filósofo 0 está pensando.
+1761578894794 - Garfo 0 foi pego pelo Filósofo 4.
+1761578894794 - Filósofo 4 pegou o garfo 0.
+1761578894794 - Filósofo 4 tenta pegar o garfo 4.
+1761578894794 - Garfo 4 foi pego pelo Filósofo 4.
+1761578894794 - Filósofo 4 pegou o garfo 4.
+1761578894794 - Filósofo 4 está comendo.
+1761578894804 - Filósofo 1 tenta pegar garfos.
+1761578894804 - Filósofo 1 tenta pegar o garfo 1.
+1761578894804 - Garfo 1 foi pego pelo Filósofo 1.
+1761578894804 - Filósofo 1 pegou o garfo 1.
+1761578894804 - Filósofo 1 tenta pegar o garfo 2.
+1761578894804 - Filósofo 1 está esperando pelo garfo 2.
+Jantar dos Filósofos encerrado.
+
+Process finished with exit code 130 (interrupted by signal 2:SIGINT)
